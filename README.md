@@ -6,7 +6,7 @@ To determine the number of retiring employees per title and identify employees w
 
 ## Results:
 ### Four Major Points from Analysis
-![Image](images/retiring_titles.png)
+![Image](Images/retiring_titles.png)
 - From the query titled "distinct_retire_titles", 72,458 people are currently up for retirement at Pewlett-Hackard based on a birthdate criteria for people born between January 1, 1952 and December 31, 1955.
 - From the query titled "retiring_titles", The largest group, at about 36%(25,916) of the people retiring hold the title Senior Engineers. Senior Staff follows as the second largest group at about 34%
 - There are only 2 managers who are eligible for retirement.
