@@ -14,12 +14,12 @@ To determine the number of retiring employees per title and identify employees w
 ## Summary:
 ### Questions
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Out of the 240,124 people who currently work for Pewlett-Hackard, 72,458 of them are eligible for retirement. Of those eligible to reiture, 70% of them are either Senior Engineers or Senior Staff. 
+Out of the 240,124 people (data found in current_dept_emp querie) who currently work for Pewlett-Hackard, 72,458 of them are eligible for retirement. Of those eligible to reiture, 70% of them are either Senior Engineers or Senior Staff. 
 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are only 1,549 employees who are eligible for mentorship program. In comparison to the amount retireing, I would conclude there are not enough to mentor all of the new positions. 
 
 ### Additional Queries
-- the count of titles in mentorship program
-- current employees working based on to_date being '9999-01-01'
+- the count of titles in mentorship program, titled 'mentor_title'.
+- current employees working based on to_date being '9999-01-01' which is titled 'current_dept_emp'.
